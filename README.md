@@ -27,7 +27,7 @@
 ---
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/salvi-vaz-56a3b628a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
