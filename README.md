@@ -67,9 +67,10 @@
 <h2 align="center">🚀 Fun Projects 🚀</h2>
 <ul>
   <li>🎯 <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy</b></a>: An AI-driven e-commerce platform.</li>
-  <li>🌌 <a herf="https://github.com/vazsalvi/3d_astroid_shooting" target="blank"><b>Space Shooter Game</b></a>: An immersive 3D gaming experience built with Unity.</li>
-  <li>🤖 <b>AI Chatbot</b>: Smart conversational assistant for customer queries.</li>
+  <li>🌌 <a href="https://github.com/vazsalvi/3d_astroid_shooting" target="_blank"><b>Space Shooter Game</b></a>: An immersive 3D gaming experience built with Unity.</li>
+  <li>🤖 <a href="https://github.com/vazsalvi/chatbot" target="_blank"><b>AI Chatbot</b></a>: Smart conversational assistant for customer queries.</li>
 </ul>
+
 
 ---
 
