@@ -6,9 +6,8 @@
 </p>
 
 ---
-### Tech Stack  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vazsalvi&theme=react-dark)
+  
 
 ---
 <p align="center">
@@ -26,6 +25,7 @@
   <li>📫 Reach me at <a href="mailto:vazsalvi1@gmail.com"><b>vazsalvi1@gmail.com</b></a>.</li>
   <li>📄 View my experiences <a href="https://drive.google.com/file/d/1eNDNyhEYYLRxgrUoRQ7ewKZOtwj6tT9j/view?usp=sharing" target="_blank"><b>here</b></a>.</li>
   <li>⚡ Fun fact: <b>"255 is my lucky number!"</b></li>
+  ![Fun Fact](https://api.quotable.io/random?tags=technology)
 </ul>
 
 ---
