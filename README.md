@@ -6,7 +6,11 @@
 </p>
 
 ---
+### Tech Stack  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
+---
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vazsalvi&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
