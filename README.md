@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Vaz Salvi</h1>
-<h3 align="center">A passionate Developer & Designer from India</h3>
+<h3 align="center">A passionate Developer & Designer from India, combining creativity and technical expertise to craft innovative solutions.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
 ---
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vazsalvi&theme=react-dark)
-  
 
 ---
 <p align="center">
