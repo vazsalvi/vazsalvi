@@ -61,7 +61,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vazsalvi&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vazsalvi&theme=radical" alt="GitHub Streak" height="180" />
+</div>
+
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazsalvi&layout=compact&theme=radical" alt="Top Languages" />
