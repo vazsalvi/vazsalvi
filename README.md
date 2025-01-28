@@ -11,8 +11,9 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vazsalvi&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vazsalvi&theme=onedark&column=8&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
+
 
 ---
 
