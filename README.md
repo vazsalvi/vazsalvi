@@ -25,8 +25,7 @@
   <li>👨‍💻 Check out all my projects on my <a href="https://salviportfolio.freewebhostmost.com/about/" target="_blank"><b>portfolio</b></a>.</li>
   <li>📫 Reach me at <a href="mailto:vazsalvi1@gmail.com"><b>vazsalvi1@gmail.com</b></a>.</li>
   <li>📄 View my experiences <a href="https://drive.google.com/file/d/1eNDNyhEYYLRxgrUoRQ7ewKZOtwj6tT9j/view?usp=sharing" target="_blank"><b>here</b></a>.</li>
-  <li>⚡ Fun fact: <b>"255 is my lucky number!"</b></li>
-  ![Fun Fact](https://api.quotable.io/random?tags=technology)
+  <li>⚡ Fun fact: <b>"255 number is very intresting!"</b></li>
 </ul>
 
 ---
@@ -53,8 +52,22 @@
 
 <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,bootstrap,c,cpp,css,figma,firebase,flutter,go,html,java,javascript,kotlin,linux,mongodb,mysql,nodejs,php,python,pytorch,react,tailwind,tensorflow,typescript,unity,vue" alt="Skills" />
+  <!-- First Row: 5 items -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" alt="Skills" />
+  <br>
+  <!-- Second Row: 6 items -->
+  <img src="https://skillicons.dev/icons?i=java,python,go,kotlin,linux,mongodb" alt="Skills" />
+  <br>
+  <!-- Third Row: 5 items -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,firebase,flutter,mysql" alt="Skills" />
+  <br>
+  <!-- Fourth Row: 6 items -->
+  <img src="https://skillicons.dev/icons?i=nodejs,php,react,tailwind,tensorflow,typescript" alt="Skills" />
+  <br>
+  <!-- Fifth Row: 5 items -->
+  <img src="https://skillicons.dev/icons?i=pytorch,unity,vue" alt="Skills" />
 </p>
+
 
 ---
 
