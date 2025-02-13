@@ -1,19 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Vaz Salvi</h1>
-<h3 align="center">A passionate Developer & Designer from India, combining creativity and technical expertise to craft innovative solutions.</h3>
+<h3 align="center">Developer & Designer from India, blending creativity with technical skills to build impactful solutions.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&width=435&lines=Creative+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Designer;AI+and+Game+Enthusiast" alt="Typing SVG" />
 </p>
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vazsalvi&theme=react-dark)
-
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vazsalvi&theme=onedark&column=8&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
-
 
 ---
 
@@ -21,11 +11,11 @@
 <ul>
   <li>🔭 Currently working on <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy E-commerce</b></a>.</li>
   <li>🌱 Learning <b>Android Development</b>.</li>
-  <li>👯 Looking to collaborate on <b>advanced projects</b> in AI, Game Development, and Web Development.</li>
-  <li>👨‍💻 Check out all my projects on my <a href="https://salviportfolio.freewebhostmost.com/about/" target="_blank"><b>portfolio</b></a>.</li>
-  <li>📫 Reach me at <a href="mailto:vazsalvi1@gmail.com"><b>vazsalvi1@gmail.com</b></a>.</li>
-  <li>📄 View my experiences <a href="https://drive.google.com/file/d/1eNDNyhEYYLRxgrUoRQ7ewKZOtwj6tT9j/view?usp=sharing" target="_blank"><b>here</b></a>.</li>
-  <li>⚡ Fun fact: <b>"255 number is very intresting!"</b></li>
+  <li>👯 Open to collaborations in AI, Game Development, and Web Development.</li>
+  <li>👨‍💻 Explore my projects on my <a href="https://salviportfolio.freewebhostmost.com/about/" target="_blank"><b>portfolio</b></a>.</li>
+  <li>📫 Contact me at <a href="mailto:vazsalvi1@gmail.com"><b>vazsalvi1@gmail.com</b></a>.</li>
+  <li>📄 View my resume <a href="https://drive.google.com/file/d/1eNDNyhEYYLRxgrUoRQ7ewKZOtwj6tT9j/view?usp=sharing" target="_blank"><b>here</b></a>.</li>
+  <li>⚡ Fun fact: <b>"255 is a fascinating number!"</b></li>
 </ul>
 
 ---
@@ -52,22 +42,16 @@
 
 <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center">
-  <!-- First Row: 5 items -->
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" alt="Skills" />
   <br>
-  <!-- Second Row: 6 items -->
   <img src="https://skillicons.dev/icons?i=java,python,go,kotlin,linux,mongodb" alt="Skills" />
   <br>
-  <!-- Third Row: 5 items -->
   <img src="https://skillicons.dev/icons?i=bootstrap,figma,firebase,flutter,mysql" alt="Skills" />
   <br>
-  <!-- Fourth Row: 6 items -->
   <img src="https://skillicons.dev/icons?i=nodejs,php,react,tailwind,tensorflow,typescript" alt="Skills" />
   <br>
-  <!-- Fifth Row: 5 items -->
   <img src="https://skillicons.dev/icons?i=pytorch,unity,vue" alt="Skills" />
 </p>
-
 
 ---
 
@@ -75,10 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vazsalvi&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vazsalvi&theme=radical" alt="GitHub Streak" height="180" />
-</div>
-
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazsalvi&layout=compact&theme=radical" alt="Top Languages" />
@@ -88,15 +69,21 @@
 
 <h2 align="center">🚀 Fun Projects 🚀</h2>
 <ul>
-  <li>🎯 <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy</b></a>: An AI-driven e-commerce platform.</li>
-  <li>🌌 <a href="https://github.com/vazsalvi/3d_astroid_shooting" target="_blank"><b>Space Shooter Game</b></a>: An immersive 3D gaming experience built with Unity.</li>
-  <li>🤖 <a href="https://github.com/vazsalvi/chatbot" target="_blank"><b>AI Chatbot</b></a>: Smart conversational assistant for customer queries.</li>
+  <li>🎯 <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy</b></a>: AI-powered e-commerce platform.</li>
+  <li>🌌 <a href="https://github.com/vazsalvi/3d_astroid_shooting" target="_blank"><b>Space Shooter Game</b></a>: 3D Unity-based game.</li>
+  <li>🤖 <a href="https://github.com/vazsalvi/chatbot" target="_blank"><b>AI Chatbot</b></a>: Intelligent assistant for customer queries.</li>
 </ul>
-
 
 ---
 
-<h2 align="center">🌟 Fun Fact 🌟</h2>
+<h2 align="center">📈 GitHub Contribution Graph 📈</h2>
 <p align="center">
-  "Code is poetry; debugging is art!"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vazsalvi&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vazsalvi&theme=onedark&column=9&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
