@@ -9,12 +9,12 @@
 
 <h2 align="center">🌟 About Me 🌟</h2>
 <ul>
-  <li>🔭 Currently working on <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy E-commerce</b></a>.</li>
+  <li>🔭 Full stack Project <a href="https://github.com/vazsalvi/EZbuy_Ecommerce" target="_blank"><b>EZbuy E-commerce</b></a>.</li>
   <li>🌱 Learning <b>Android Development</b>.</li>
-  <li>👯 Open to collaborations in AI, Game Development, and Web Development.</li>
-  <li>👨‍💻 Explore my projects on my <a href="https://salviportfolio.freewebhostmost.com/about/" target="_blank"><b>portfolio</b></a>.</li>
-  <li>📫 Contact me at <a href="mailto:vazsalvi1@gmail.com"><b>vazsalvi1@gmail.com</b></a>.</li>
-  <li>📄 View my resume <a href="https://drive.google.com/file/d/1eNDNyhEYYLRxgrUoRQ7ewKZOtwj6tT9j/view?usp=sharing" target="_blank"><b>here</b></a>.</li>
+  <li>👯 Open to collaborations in AI, App Development, Game Development and Web Development.</li>
+  <li>👨‍💻 Explore my projects on my <a href="https://vazsalvi.com/" target="_blank"><b>portfolio</b></a>.</li>
+  <li>📫 Contact me at <a href="mailto:vazsalvi@gmail.com"><b>vazsalvi@gmail.com</b></a>.</li>
+  <li>📄 View my resume <a href="https://drive.google.com/file/d/1-2Tp4CwmSig65pFLk32PFNIH1pPTRt8Y/view?usp=drive_link"] target="_blank"><b>here</b></a>.</li>
   <li>⚡ Fun fact: <b>"255 is a fascinating number!"</b></li>
 </ul>
 
